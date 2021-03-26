@@ -10,8 +10,7 @@
 [我的網頁](https://nightsky265.github.io/)  
 https://nightsky265.github.io/   
 
-![Nightsky](https://github.com/nightsky265/nightsky265.github.io/blob/main/20170328121743_0_802.jpg)
-
+![Nightsky](https://raw.githubusercontent.com/nightsky265/nightsky265.github.io/main/20170328121743_0_802.jpg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nightsky265/nightsky265.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
